@@ -90,7 +90,7 @@ int main(){
 
     // Close the CSV file
     fclose(fp);
-    printf("Results have been saved to matrix_multiplication_results.csv\n");
+    printf("Results have been saved to sequencial_results.csv\n");
 
     return 0;
 }
